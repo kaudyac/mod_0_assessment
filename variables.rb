@@ -4,7 +4,9 @@ movie = "Baahubali"
 num_4 = 10
 num_6 = 20
 product = num_4 * num_6
+puts num_4 * num_6
 product = 200
+puts product
 
 favorite_foods = ["bananas", "strawberries", "potatoes"]
 favorite_foods.shift(0) =>
