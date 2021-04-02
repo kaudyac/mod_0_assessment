@@ -1,4 +1,4 @@
-adam_favorite_dinosaur = {
+dinosaur = {
   genus_name = "pachycephalosaurus"
   alive_epoch = "late cretaceous"
   num_alive_today = 0
